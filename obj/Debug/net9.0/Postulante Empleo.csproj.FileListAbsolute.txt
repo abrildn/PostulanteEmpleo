@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\bin\Debug\net9.0\Postulante Empleo.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\bin\Debug\net9.0\Postulante Empleo.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\bin\Debug\net9.0\Postulante Empleo.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\bin\Debug\net9.0\Postulante Empleo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\bin\Debug\net9.0\Postulante Empleo.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\refint\Postulante Empleo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\Postulante Empleo.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Postulante Empleo\obj\Debug\net9.0\ref\Postulante Empleo.dll
